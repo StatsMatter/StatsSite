@@ -1,21 +1,21 @@
 {
-  "title" : "Our Services",
-  "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis mollis nisi, a tempor mi fermentum eget. Duis sed pulvinar justo.",
-  "content" : [
+  "title": "About Me",
+  "description": "Hello, I’m an independent researcher and educator in the field of Data Driven Intelligence, Artificial Intelligence and Cognitive Sciences with the focus of promoting next generation startups and companies and helping existing ecosystems to transition into the Artificial Intelligence based ecosystems. I strongly believe that finding the right balance between the combined assets of Human Intelligence and Artificial Intelligence is the key to the success and growth of any organization. I work under the banner of StatsMatter, and provide services such as :",
+  "content": [
     {
-      "icon" : "bell",
-      "title" : "Creative Design",
-      "description" : "Our proven creative website design services speak of your brand, thus establishing an instant connection with your customers."
+      "icon": "bell",
+      "title": "WORKSHOPS & EVENTS",
+      "description": "Most helpful for beginners. A Gentle introduction's to complex concepts and ideas related to Data Science, Machine Learning, Artificial Intelligence and Deep Learning."
     },
     {
-      "icon" : "code",
-      "title" : "Web & Mobile Development",
-      "description" : "We help you craft a functional and high-performing apps and websites through our effective mobile and web development services."
+      "icon": "code",
+      "title": "DATA DRIVEN PRODUCTS CONSULTANT & EDUCATOR",
+      "description": "Primarily aimed at companies and startup's having high end technical workforce and resources, looking for an outsider's perspective and want to transition to AI driven techs."
     },
     {
-      "icon" : "",
-      "title" : "Digital Marketing",
-      "description" : "Enhance your reach and make more customers fall for you with our well-planned and strategized marketing solutions."
+      "icon": "",
+      "title": "PERSONALIZED LEARNING TRACKS",
+      "description": "Catered courses and learning sessions for corporate training, classroom programs and one-to-one training."
     }
   ]
 }

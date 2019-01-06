@@ -1,35 +1,15 @@
 {
-  "title" : "Team",
-  "description" : "Little team description here",
-  "members" : [
+  "title": "About Me  ",
+  "description": "Hello, I’m an independent researcher and educator in the field of Data Driven Intelligence, Artificial Intelligence and Cognitive Sciences with the focus of promoting next generation startups and companies and helping existing ecosystems to transition into the Artificial Intelligence based ecosystems. I strongly believe that finding the right balance between the combined assets of Human Intelligence and Artificial Intelligence is the key to the success and growth of any organization.",
+  "members": [
     {
-      "name" : "Sarita",
-      "description" : "CEO",
-      "avatar" : "sarita.jpeg",
-      "social" : {
-        "facebook" : "https://facebook.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "linkedin" : "https://linkedin.com/add/damn"
-      }
-    },
-    {
-      "name" : "Veronica",
-      "description" : "Graphics Designer",
-      "avatar" : "veronica.jpeg",
-      "social" : {
-        "twitter" : "https://twitter.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "dribbble" : "https://dribbble.com/add/damn"
-      }
-    },
-    {
-      "name" : "John",
-      "description" : "Graphics Designer",
-      "avatar" : "john.jpeg",
-      "social" : {
-        "linkedin" : "https://linkedin.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "medium" : "https://medium.com/add/damn"
+      "name": "Vipul",
+      "description": "Data Scientist",
+      "avatar": "bitmoji2019612813.png",
+      "social": {
+        "facebook": "https://facebook.com/statsmatter",
+        "instagram": "https://www.instagram.com/statsmatter/?hl=en",
+        "linkedin": "https://www.linkedin.com/in/vipul-pandey-9122b960/"
       }
     }
   ]

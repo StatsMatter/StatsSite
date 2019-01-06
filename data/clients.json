@@ -1,18 +1,22 @@
 {
-  "title" : "Some of our awesome clients",
-  "description" : "These are just sample logos",
-  "clients" : [
+  "title": "Gallery",
+  "description": "Workshops & Conferences",
+  "clients": [
     {
-      "title" : "Produthunt",
-      "image" : "producthunt.png"
+      "title": "aws",
+      "image": "21241331690_22feff2b29_k.jpg"
     },
     {
-      "title" : "Google",
-      "image" : "google.png"
+      "title": "Meetup",
+      "image": "meetup.jpeg"
     },
     {
-      "title" : "Facebook",
-      "image" : "facebook.png"
+      "title": "Google",
+      "image": "21437845701_49fbbfc8c8_k.jpg"
+    },
+    {
+      "title": "GDG",
+      "image": "gdg.png"
     }
   ]
 }
