@@ -1,46 +1,64 @@
 {
   "title": "LEARNING TRACKS & PRICING",
-  "description": "Pleae be in touch for better understanding",
+  "description": "Please be in touch for any Queries",
   "content": [
     {
-      "title": "2 DAY WORKSHOP ON AI/MACHINE LEARNING AND DATA SCIENCE",
-      "price": "$30",
+      "title": "Monthly Events & Meetups On Various Topics",
+      "price": "Free",
       "features": [
-        "No setup, monthly, or hidden fees",
-        "Pay only for what you use",
-        "Real-time fee reporting"
+        "Weekly",
+        "Monthly",
+        "For EveryOne",
+        "Contact to Know Event's Location"
       ],
       "button": {
         "text": "Register",
-        "href": "/#contact"
+        "href": "#contact"
       }
     },
     {
-      "title": "LEARNING SESSIONS ON AI FOR EXECUTIVES",
-      "price": "$90",
+      "title": "2 DAY WORKSHOP ON AI/MACHINE LEARNING AND DATA SCIENCE (Price is for trial Session)",
+      "price": "LT1",
       "features": [
-        "All features of Starter Pack",
-        "Feature number 2",
-        "Feature 3",
-        "feature 4"
+        "Trial Session Available",
+        "Recommended for Beginners",
+        "8 Hour Session",
+        "Students",
+        "Corporate Workshops"
       ],
       "button": {
-        "text": "Register",
-        "href": "/#contact"
+        "text": "Request Trial",
+        "href": "#contact"
       }
     },
     {
-      "title": "COURSE IN ARTIFICIAL INTELLIGENCE AND DEEP LEARNING",
-      "price": "$90",
+      "title": "LEARNING SESSIONS ON AI FOR CEO's and EXECUTIVES (Price is for trial Session)",
+      "price": "LT2",
       "features": [
-        "All features of Starter Pack",
-        "Feature number 2",
-        "Feature 3",
-        "feature 4"
+        "Trial Session Available",
+        "One-to-One Sessions(optional)",
+        "Upper limit On Seats",
+        "WIth UseCases",
+        "Ideal for Decision Makers"
       ],
       "button": {
-        "text": "Register",
-        "href": "/#contact"
+        "text": "Request Trial",
+        "href": "#contact"
+      }
+    },
+
+    {
+      "title": "Request Online Training and Webinars (Price is for trial Session)",
+      "price": "$50 - LT3",
+      "features": [
+        "Also available for Candidates Outside India",
+        "Trial Session Available",
+        "Learn at your own Pace",
+        "Flexible Timing"
+      ],
+      "button": {
+        "text": "Request Trial",
+        "href": "#contact"
       }
     }
   ]

@@ -3,20 +3,20 @@
   "description": "Workshops & Conferences",
   "clients": [
     {
+      "title": "Workshop",
+      "image": "image0.jpg"
+    },
+    {
+      "title": "Exec",
+      "image": "image1.jpg"
+    },
+    {
+      "title": "Course",
+      "image": "image2.jpg"
+    },
+    {
       "title": "aws",
       "image": "21241331690_22feff2b29_k.jpg"
-    },
-    {
-      "title": "Meetup",
-      "image": "meetup.jpeg"
-    },
-    {
-      "title": "Google",
-      "image": "21437845701_49fbbfc8c8_k.jpg"
-    },
-    {
-      "title": "GDG",
-      "image": "gdg.png"
     }
   ]
 }

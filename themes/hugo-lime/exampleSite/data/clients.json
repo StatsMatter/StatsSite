@@ -14,5 +14,9 @@
       "title": "Facebook",
       "image": "facebook.png"
     }
+    {
+      "title": "Meetup",
+      "image": "meetup.png"
+    }
   ]
 }

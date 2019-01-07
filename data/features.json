@@ -1,6 +1,6 @@
 {
-  "title": "About Me",
-  "description": "Hello, I’m an independent researcher and educator in the field of Data Driven Intelligence, Artificial Intelligence and Cognitive Sciences with the focus of promoting next generation startups and companies and helping existing ecosystems to transition into the Artificial Intelligence based ecosystems. I strongly believe that finding the right balance between the combined assets of Human Intelligence and Artificial Intelligence is the key to the success and growth of any organization. I work under the banner of StatsMatter, and provide services such as :",
+  "title": "Services",
+  "description": "I provide services under the banner of StatsMatter which are helpful for Career driven Professional's, Companies and Startup's who want to transition into Artificial Intelligence driven products and techs.",
   "content": [
     {
       "icon": "bell",
@@ -9,12 +9,12 @@
     },
     {
       "icon": "code",
-      "title": "DATA DRIVEN PRODUCTS CONSULTANT & EDUCATOR",
-      "description": "Primarily aimed at companies and startup's having high end technical workforce and resources, looking for an outsider's perspective and want to transition to AI driven techs."
+      "title": "DATA DRIVEN PRODUCTS CONSULTANT & CONCEPTUALIZATION",
+      "description": "Primarily aimed at companies and startup's having high end technical workforce and resources, looking for an outsider's perspective and want to transition to AI driven ecosystems."
     },
     {
       "icon": "",
-      "title": "PERSONALIZED LEARNING TRACKS",
+      "title": "PERSONALIZED LEARNING TRACKS (Online Sessions Available)",
       "description": "Catered courses and learning sessions for corporate training, classroom programs and one-to-one training."
     }
   ]
