@@ -1,11 +1,11 @@
 {
   "title": "Learn Artificial Intelligence both  intuitively and practically.",
-  "description": "StatsMatter provides workshops, training and learning solutions for companies and individual's interested in incorporating artificial intelligence in their work culture.",
+  "description": "StatsMatter provides workshops, learning solutions and social media analytics for companies and individual's interested in incorporating artificial intelligence in their work culture.",
   "illustration": "freelancing.svg",
-  "alt_text": "Or see why we worth it",
+  "alt_text": "Want to know more?",
   "alt_href": "#features",
   "button": {
-    "text": "Contact",
-    "href": "#contact"
+    "text": "Social Media",
+    "href": "https://www.instagram.com/statsmatter/?hl=en"
   }
 }

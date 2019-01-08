@@ -1,11 +1,16 @@
 {
   "title": "Services",
-  "description": "I provide services under the banner of StatsMatter which are helpful for Career driven Professional's, Companies and Startup's who want to transition into Artificial Intelligence driven products and techs.",
+  "description": "I provide various services under the banner of StatsMatter which are helpful for Career driven Professional's, Companies, Educational Institutions and Organisations who want to transition into Artificial Intelligence driven products and techs.",
   "content": [
     {
       "icon": "bell",
       "title": "WORKSHOPS & EVENTS",
       "description": "Most helpful for beginners. A Gentle introduction's to complex concepts and ideas related to Data Science, Machine Learning, Artificial Intelligence and Deep Learning."
+    },
+    {
+      "icon": "",
+      "title": "Social Media Analytics",
+      "description": "Understand how your Public Profile fares on Twitter and other Social Media Platforms."
     },
     {
       "icon": "code",

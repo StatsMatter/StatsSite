@@ -3,7 +3,7 @@
   "description": "Please be in touch for any Queries",
   "content": [
     {
-      "title": "Monthly Events & Meetups On Various Topics",
+      "title": "Monthly Events & Meetups On Various Topics (Register for upcoming meets)",
       "price": "Free",
       "features": [
         "Weekly",
@@ -17,7 +17,7 @@
       }
     },
     {
-      "title": "2 DAY WORKSHOP ON AI/MACHINE LEARNING AND DATA SCIENCE (Price is for trial Session)",
+      "title": "2 DAY WORKSHOP ON AI/MACHINE LEARNING AND DATA SCIENCE (Registration for trial Session)",
       "price": "LT1",
       "features": [
         "Trial Session Available",
@@ -32,7 +32,7 @@
       }
     },
     {
-      "title": "LEARNING SESSIONS ON AI FOR CEO's and EXECUTIVES (Price is for trial Session)",
+      "title": "LEARNING SESSIONS ON AI FOR CEO's and EXECUTIVES (Registration for trial Session)",
       "price": "LT2",
       "features": [
         "Trial Session Available",
@@ -48,7 +48,7 @@
     },
 
     {
-      "title": "Request Online Training and Webinars (Price is for trial Session)",
+      "title": "Request Online Training and Webinars (Registration for 2 Days Workshop)",
       "price": "$50 - LT3",
       "features": [
         "Also available for Candidates Outside India",
