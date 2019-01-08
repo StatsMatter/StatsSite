@@ -1,6 +1,6 @@
 {
-  "title": "Services",
-  "description": "I provide various services under the banner of StatsMatter which are helpful for Career driven Professional's, Companies, Educational Institutions and Organisations who want to transition into Artificial Intelligence driven products and techs.",
+  "title": "Services & Learning Solutions",
+  "description": "These Services and Educational activities are provided under the banner of StatsMatter which are helpful for Career driven Professional's, Companies, Educational Institutions and Organisations who want to transition into Artificial Intelligence driven products, techs and benefit from their easily available services.",
   "content": [
     {
       "icon": "bell",
@@ -14,13 +14,13 @@
     },
     {
       "icon": "code",
-      "title": "DATA DRIVEN PRODUCTS CONSULTANT & CONCEPTUALIZATION",
+      "title": "Data Driven Products Conceptualization and Business Translator",
       "description": "Primarily aimed at companies and startup's having high end technical workforce and resources, looking for an outsider's perspective and want to transition to AI driven ecosystems."
     },
     {
       "icon": "",
-      "title": "PERSONALIZED LEARNING TRACKS (Online Sessions Available)",
-      "description": "Catered courses and learning sessions for corporate training, classroom programs and one-to-one training."
+      "title": "Personalized Learning Tracks (Online Sessions Available)",
+      "description": "Catered courses and learning sessions for corporate, classroom programs and one-to-one training."
     }
   ]
 }
