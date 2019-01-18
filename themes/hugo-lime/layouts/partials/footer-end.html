@@ -1,16 +1,15 @@
-
     
-      {{ $code := .Site.Data.config.googleAnalytics }}
-      {{ if $code }}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ $code }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-      
-        gtag('config', '{{ $code }}');
-      </script>
-      {{ end }}
+{{ $code := .Site.Data.config.googleAnalytics }}
+{{ if $code }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $code }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ $code }}');
+</script>
+{{ end }}
     
 
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
